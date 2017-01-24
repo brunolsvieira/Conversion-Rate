@@ -1,2 +1,2 @@
 # Conversion-Rate
-Prof. Davis' Data Mining Challenge
+Prof. Davis Data Mining Challenge
